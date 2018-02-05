@@ -11,6 +11,7 @@ where <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{H}" target="_blan
 
 #### Solving the schrodinger equation for Hydrogen
 The schrodinger equation is analytically solvable in very few cases. One such case is that the system must be hydrogen-like, this means that there exists only two particles in the system, a nucleus and an electron. In the case of hydrogen this is a single proton and a single electon but He^+ and Li^2+, among others, are also hydrogen-like systems. The Hamiltonian for hydrogen is
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=-\frac{i\bar{h}^2}{2\mu}\nabla^2&space;-&space;\frac{Ze^2}{4\pi\epsilon_0&space;r}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-\frac{i\bar{h}^2}{2\mu}\nabla^2&space;-&space;\frac{Ze^2}{4\pi\epsilon_0&space;r}" title="-\frac{i\bar{h}^2}{2\mu}\nabla^2 - \frac{Ze^2}{4\pi\epsilon_0 r}" /></a>
 
 # Improvements
